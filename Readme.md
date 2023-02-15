@@ -1,4 +1,5 @@
-# Outlook Account Generator Request Based (WORKING 2023)
+# Outlook Account Generator Request Based 
+# (WORKING 2023)
 ## What is OUTLOOK?
 Outlook is a popular email client and personal information manager developed by Microsoft. It is primarily used to manage email, contacts, and calendars, but also includes features such as task management, note-taking, and journaling. Outlook can be used as a standalone application or can be integrated with other Microsoft Office products such as Word, Excel, and PowerPoint.
 
