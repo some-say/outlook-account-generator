@@ -28,7 +28,7 @@ Outlook is available for Windows and Mac OS, and also has a web-based version kn
 6. Modify the threads that you want to use in the config.json (how many requests you want to have concurrently)
 7. Save everything 
 8. Run the program using py main.py
- 
+  
  
 
  
