@@ -29,7 +29,7 @@ Outlook is available for Windows and Mac OS, and also has a web-based version kn
 7. Save everything 
 8. Run the program using py main.py
   
- 
+  
 
 
   
