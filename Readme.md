@@ -9,7 +9,7 @@ Outlook is available for Windows and Mac OS, and also has a web-based version kn
 ## Requeriments
 - Python
 - API key from https://www.capsolver.com/
-- Proxies from: https://packetstream.io/?psr=1cys
+- Proxies from: https://metaproxies.net/?r=un1dWPnZ6K
 - ✨Magic ✨
 
 ## Features
