@@ -13,8 +13,8 @@ Outlook is available for Windows and Mac OS, and also has a web-based version kn
 - ✨Magic ✨
 
 ## Features
-
-- Create Outlook accounts without browser. Everything request based
+- Create Outlook accounts without browser. Everything r
+equest based
 - Very easy to use
 - Accounts automatically saved into accounts.txt
 - Proxy Support
